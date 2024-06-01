@@ -40,8 +40,6 @@ The Quiz Management REST API allows users to create and manage quizzes. It suppo
  
   
     ![Screenshot 2024-06-01 195502](https://github.com/Kedhar193/full-stack-projects/assets/115712936/ec5e592f-2e4c-41ce-b309-223f132a723c)
-
-
 #### Get Questions by Category
 
 - **URL:** `GET /questions/category/{category}`
